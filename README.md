@@ -1,7 +1,10 @@
-##👋 Welcome, I am Ashraf Mohammed,
-- This is the only source of my work. Hope you like it my friend 💞️
-- 👀 I’m interested in ui / ux design, Front end develober
-- 🌱 I’m currently learning back end develober
-- 💞️ I look forward to collaborating on the biggest software projects
-- 📫 If you want any help in anything related to the web whatever the design or
--  background programming I am ready to reply to you
+👋 Welcome, I am Ashraf Mohammed,
+This is the only place for my work, I hope you like my work. 👀💞️
+
+I am working on user interface / user experience design,
+front-end development, and now I am striving to learn to develop back-end programming for websites.👌
+
+I am striving to work on the largest projects related to the web.
+
+If you want any help in designing anything or programming the front-end, I'm ready to help at leisure.🤝
+And I'm so glad you're here😊💖
