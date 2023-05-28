@@ -7,4 +7,5 @@ front-end development, and now I am striving to learn to develop back-end progra
 I am striving to work on the largest projects related to the web.
 
 If you want any help in designing anything or programming the front-end, I'm ready to help at leisure.🤝
+
 And I'm so glad you're here😊💖
